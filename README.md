@@ -1,7 +1,5 @@
 # The Minimal theme
 
-[![.github/workflows/ci.yaml](https://github.com/scauligi/minimal-github-theme/actions/workflows/ci.yaml/badge.svg)](https://github.com/scauligi/minimal-github-theme/actions/workflows/ci.yaml)
-
 *Minimal is a Jekyll theme for GitHub Pages. You can [preview the this modification of the theme to see what it looks like](http://scauligi.github.io/), or even [use it today](#usage).*
 
 ![Thumbnail of Minimal](thumbnail.png)
